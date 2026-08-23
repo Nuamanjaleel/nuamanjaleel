@@ -1,23 +1,89 @@
-## 👋 About Me<br><br>🎓 I'm a Computer Science graduate specializing in **AI & Machine Learning**<br>from VIT-AP, Amaravati — passionate about building real-world AI systems<br>that solve meaningful problems.<br><br>🧠 **What I've learned:**<br>Across my degree, I dived deep into **Python, Machine Learning, Deep Learning,<br>Generative AI, LangChain, RAG, Vector Databases, and AWS Cloud Architecture**<br>— going beyond theory to understand how production systems actually work.<br><br>🚀 **How I've applied it:**<br>I've built and deployed 3 end-to-end projects — a **GenAI-powered financial<br>risk analysis system**, a **scalable AWS cloud architecture** replacing a<br>crash-prone single server, and a **full-stack AI ticketing system** with<br>FastAPI + React + Docker. Every project is live on my GitHub.<br><br>📈 **How I'm learning more:**<br>Currently sharpening my **DSA skills on LeetCode**, exploring **MLOps and<br>model deployment**, and deepening my knowledge of **LLM fine-tuning and<br>agentic AI systems** — because the field moves fast and I intend to move<br>faster.<br><br>⚡ **Fun facts about me:**<br>- 🏟️ Massive football fan — if I'm not coding, I'm probably watching or<br>  playing a game<br>- 🏆 Led a 40+ member Sports Club as President — I bring the same energy<br>  to tech teams<br>- 🌍 I speak 4 languages: English, Malayalam, Hindi & German<br>- ☁️ Kerala born, cloud-obsessed, AI-driven
+# Hi there, I'm Nuaman M 👋
 
+### **AI Engineer & Forward Deployed Systems Architect**
+🎓 **B.Tech Computer Science (AI/ML)** — VIT-AP University  
+🌍 Based in Kerala, India • Building pragmatic, deterministic AI systems & HITL enterprise workflows.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nuamanjr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nuaman M) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nuamanjaleel18@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nuamanjaleel&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Nuamanjaleel&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuamanjaleel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Nuamanjaleel&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[🌐 Portfolio](https://nuaman.vercel.app) • [💼 LinkedIn](https://www.linkedin.com/in/nuamanjaleel/) • [📧 Email](mailto:nuamanjaleel18@gmail.com) • [📱 Phone](tel:+918078078485)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Nuamanjaleel&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Featured Production Projects
+
+| Project | Description | Tech Stack | Live Links |
+| :--- | :--- | :--- | :--- |
+| 🛡️ **ResolvAI** | **Enterprise Exception Resolution Workbench**<br>Human-in-the-Loop AP exception engine with deterministic confidence scoring, SQLite audit ledger, ROI dollar throughput tracking, and keyboard velocity shortcuts. | `Next.js 15` `FastAPI` `TypeScript` `SQLAlchemy` `SQLite` `Tailwind v4` | [Live App](https://supervity-workbench-web.vercel.app) • [Repo](https://github.com/Nuamanjaleel/supervity-workbench-web) |
+| 🕸️ **NeuralGraph** | **AI Research Knowledge Graph**<br>Graph database application modeling multi-hop relationships across papers, researchers, concepts, and frameworks with interactive 2D force graph visualization. | `CognoDB` `Neo4j Cypher` `FastAPI` `Next.js` `react-force-graph` | [Live App](https://neuralgraph-web-nine.vercel.app) • [Repo](https://github.com/Nuamanjaleel/neuralgraph-web) |
+| 📊 **RiskGenAI** | **GenAI Financial Risk Intelligence**<br>Enterprise portfolio risk analysis engine leveraging RAG, vector document embeddings, and real-time financial discrepancy auditing. | `Python` `LangChain` `Vector DBs` `FastAPI` `React` | [Portfolio](https://nuaman.vercel.app) |
+| ☁️ **High-Availability Cloud Engine** | **Scalable AWS Infrastructure Architecture**<br>Autoscaling cloud setup replacing legacy single-server bottlenecks with ALB load balancing, EC2 auto-scaling groups, and Terraform CI/CD. | `AWS` `EC2` `ALB` `Docker` `Terraform` | [Portfolio](https://nuaman.vercel.app) |
+
+---
+
+## 🛠️ Tech Stack & Capabilities
+
+### **Languages & Core**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### **AI, ML & Graph Databases**
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+### **Frontend & UX**
+![Next.js 15](https://img.shields.io/badge/Next.js%2015-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Tailwind CSS v4](https://img.shields.io/badge/tailwindcss%20v4-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+### **Backend, ORM & Cloud**
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🧠 Engineering Philosophy & Focus
+
+- **Human-in-the-Loop (HITL) Priority:** AI shouldn't act as a silent black box in high-stakes domain workflows. I design systems with confidence-gated policy thresholds, transparent decision evidence, and instant human overrides.
+- **Deterministic Money-Path Decisions:** Zero tolerance for LLM hallucinations on core execution paths. Generative AI belongs in explainability and conversational query routing—not financial or legal authorization logic.
+- **Operator Velocity First:** High-volume ops users live on the keyboard. I build interfaces with sub-10ms response times, intuitive keyboard navigation, and clear ROI dollar throughput metrics.
+
+---
+
+## 📊 GitHub Analytics & Achievements
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nuamanjaleel&theme=dark&hide_border=false&show_icons=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuamanjaleel&theme=dark&hide_border=false&layout=compact" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Nuamanjaleel&theme=dark&hide_border=false" width="98%" />
+</p>
+
+---
+
+## ⚡ Quick Facts About Me
+
+- ⚽ **Sports Leadership:** Led a 40+ member Sports Club as President at VIT-AP—bringing team drive, communication, and high energy to software engineering.
+- 🗣️ **Multilingual:** Speak 4 languages fluently (English, Malayalam, Hindi & German).
+- ☕ **Aesthetic:** Big fan of executive Warm Espresso & Linen design systems for developer tooling.
+
+---
+
+<p align="center">
+  <a href="https://nuaman.vercel.app">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-2A211E?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
