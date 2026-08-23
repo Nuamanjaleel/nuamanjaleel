@@ -61,17 +61,10 @@
 
 ---
 
-## 📊 GitHub Analytics & Achievements
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nuamanjaleel&theme=dark&hide_border=false&show_icons=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuamanjaleel&theme=dark&hide_border=false&layout=compact" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Nuamanjaleel&theme=dark&hide_border=false" width="98%" />
-</p>
-
+![Nuaman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nuamanjaleel&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuamanjaleel&layout=compact&theme=dark)
 ---
 
 ## ⚡ Quick Facts About Me
